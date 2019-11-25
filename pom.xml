@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sda</groupId>
-	<artifactId>event-service-2</artifactId>
+	<artifactId>spring-data-jpa</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>event-service-2</name>
 	<description>Demo project for Spring Boot</description>
